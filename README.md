@@ -1,5 +1,7 @@
 # VerifiedRoot
 
-Verified root trust tooling.
+Verified root trust tooling. Builds and checks owner trust bundles and signature chains.
 
-Maintained as an independent module and included by [UniXNU](https://github.com/UniXNU/UniXNU) at `kits/VerifiedRoot`.
+Current state: used by the owner root path.
+
+Run by the UniXNU trust and payload steps.
