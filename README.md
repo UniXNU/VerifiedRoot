@@ -1,7 +1,7 @@
 # VerifiedRoot
 
-Verified root trust tooling. Builds and checks owner trust bundles and signature chains.
+Authenticated block reads.
 
-Current state: used by the owner root path.
+used by the owner root path.
 
-Run by the UniXNU trust and payload steps.
+Build and interface details: [documentation](https://unixnu.com/drivers/verified-root). Component sources and dependencies: [catalog](https://unixnu.com/reference/components).
